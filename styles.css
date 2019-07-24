@@ -1,0 +1,19 @@
+p {
+    color: #E97786; 
+}
+
+a {
+    color: #E97786;
+}
+
+a:hover {
+    color: #5557C4; 
+}
+
+h1{
+    font-size: 60px
+}
+
+.bears {
+    display: inline-block; 
+}
